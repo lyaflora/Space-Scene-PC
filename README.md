@@ -22,5 +22,7 @@ Creators:
 
 © Petrók Flóra - Game development
 
+[Link to background music](https://youtu.be/s57ZUkVh0NQ)
+
 ## In case of errors
 If an error with message starting like "Failed to open descriptor file" comes up, please navigate to [Space-Scene-PC/Illusion/Content/Paks/Illusion-WindowsNoEditor.pak](https://github.com/lyaflora/Space-Scene-PC/blob/main/Illusion/Content/Paks/Illusion-WindowsNoEditor.pak) here in the github repository, and press `Download`. Then replace the exisiting file on your PC in the same folder (Space-Scene-PC-main/Illusion/Content/Paks) with the downloaded file (Illusion-WindowsNoEditor.pak). It should start without complications now.
